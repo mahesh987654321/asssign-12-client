@@ -1,0 +1,10 @@
+@media only screen and (max-width: 600px) {
+  .customer {
+    font-size: 48%;
+  }
+  .crd {
+    width: 100%;
+    margin: 0px auto;
+    padding-left: 1rem;
+  }
+}

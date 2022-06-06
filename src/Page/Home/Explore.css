@@ -1,0 +1,8 @@
+@media only screen and (max-width: 600px) {
+  .exp {
+    font-size: 60%;
+  }
+  .rep{
+      font-size: 70%
+  }
+}

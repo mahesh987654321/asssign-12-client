@@ -1,0 +1,23 @@
+.banner-imgHeight {
+  height: 25vw;
+}
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.container {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+@media only screen and (max-width: 600px) {
+  .dash {
+    font-size: 12px;
+    line-height: 2px;
+  }
+  .wdth {
+    width: 100vw;
+  }
+}

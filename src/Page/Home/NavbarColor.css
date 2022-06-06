@@ -1,0 +1,12 @@
+.navbar-color {
+  background-color: #ccc6c6;
+  color: black;
+}
+@media only screen and (max-width: 600px) {
+  .button {
+    display: none;
+  }
+  .car{
+    font-size: 90%;
+  }
+}

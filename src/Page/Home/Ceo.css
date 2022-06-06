@@ -1,0 +1,9 @@
+@media only screen and (max-width: 600px) {
+  .aoi {
+    font-size: 48%;
+  }
+  .will{
+      font-size: 48%;
+      text-align: center;
+  }
+}

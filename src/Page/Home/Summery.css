@@ -1,0 +1,18 @@
+@media only screen and (max-width: 600px) {
+  .sum-text {
+    font-size: 1.2rem;
+  }
+  .client {
+    font-size: 80%;
+  }
+  .ques {
+    font-size: 48%;
+    text-align: center;
+  }
+  .get {
+    font-size: 48%;
+  }
+  .cen {
+    text-align: center;
+  }
+}
